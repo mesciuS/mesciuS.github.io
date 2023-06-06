@@ -37,6 +37,7 @@ ul {
 .position {
     font-size: 1.7em;
     padding-bottom: 5px;
+    padding-top: 5px;
 }
 .email {
     font-size: .9em;
@@ -53,4 +54,6 @@ ul {
 }
 p {
     padding-bottom: 10px;
+    font-size: 24px;
+    line-height: 1.4em;
 }
