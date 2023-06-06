@@ -12,7 +12,7 @@ body {
     flex-direction: column;
     max-width: 760px;
     margin: 0 auto;
-    padding-top: 50px;
+    padding: 50px 15px;
     overflow-y: auto;
 }
 img {
@@ -36,6 +36,7 @@ ul {
 }
 .position {
     font-size: 1.7em;
+    color: #636874;
     padding-bottom: 5px;
     padding-top: 5px;
 }
