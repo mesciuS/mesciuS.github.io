@@ -29,14 +29,18 @@ h1 {
 .info-wrapper {
     display: flex;
     justify-content: space-between;
-    padding-top: 20px;
     padding-bottom: 20px;
 }
 ul {
     list-style-type: none;
 }
-.info {
-    font-size: 1.1em;
+.position {
+    font-size: 1.7em;
+    padding-bottom: 5px;
+}
+.email {
+    font-size: .9em;
+    font-weight: bolder;
 }
 .links {
     display: flex;
